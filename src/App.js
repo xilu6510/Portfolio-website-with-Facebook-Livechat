@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import Sidebar from "./components/sidebar/Sidebar";
+import Home from "./components/home/Home";
+import About from "./components/about/About";
+import NavBar from "./components/navbar/NavBar";
+import Work from "./components/work/Work";
+import Projects from "./components/projects/Projects";
+import Contact from "./components/contact/Contact";
+import Skills from "./components/skills/Skills";
+import { FacebookChat } from "./components/FacebookChat";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Sidebar />
+      <NavBar />
+
+      <main className="main">
+        <Home />
+        <About />
+        <Skills />
+        <Projects />
+        <Work />
+        <Contact />
+        <FacebookChat />
+      </main>
+    </>
   );
 }
 
