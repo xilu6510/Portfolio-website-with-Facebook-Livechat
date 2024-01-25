@@ -11,34 +11,34 @@ const Skills = () => {
         <div className="container-big">
           <div className="skill-list">
             <p className="skills-title">Languages:</p>
-            <p clssName="skill-item">HTML, CSS, JavaScript, Java, Sass</p>
+            <p clssName="skill-item">JavaScript, Java</p>
           </div>
 
           <div className="skill-list">
-            <p className="skills-title">JavaScript Libraries:</p>
-            <p clssName="skill-item">React, jQuery</p>
+            <p className="skills-title">Front-end:</p>
+            <p clssName="skill-item">JavaScript ES6+, React, HTML5, CSS3, SASS, Styled-component, Material-UI, BootStrap</p>
           </div>
 
           <div className="skill-list">
-            <p className="skills-title">Framework:</p>
-            <p clssName="skill-item">Bootstrap, React Native</p>
+            <p className="skills-title">Testing:</p>
+            <p clssName="skill-item">Cypress</p>
           </div>
 
           <div className="skill-list">
             <p className="skills-title">Databases:</p>
-            <p clssName="skill-item">MySQL, MongoDB</p>
+            <p clssName="skill-item">MySQL, MongoDB, Firebase</p>
           </div>
 
           <div className="skill-list">
-            <p className="skills-title">Softwares:</p>
+            <p className="skills-title">Tooling:</p>
             <p clssName="skill-item">
-              Jira, Confluence, MS Office, Figma, Trello
+              Git, Github, NPM, JIRA, Confluence, Postman, Figma
             </p>
           </div>
 
           <div className="skill-list">
-            <p className="skills-title">Systems:</p>
-            <p clssName="skill-item">Windows, Mac OS X, Android, IOS</p>
+            <p className="skills-title">Methodologies:</p>
+            <p clssName="skill-item">Agile</p>
           </div>
 
           <div className="skill-list">
