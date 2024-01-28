@@ -13,22 +13,17 @@ const About = () => {
           position. With a Master of Information Technology in Computer Science
           from the University of Sydney, I bring a solid educational foundation
           and around 3 years of experience in front-end web development.
-          Throughout my career, while my previous experience primarily involves
-          creating websites using Wordpress, I have honed my skills in
-          developing cutting-edge front-end web applications, with a strong
-          focus on JavaScript, HTML, and CSS. I am proficient in leading
-          libraries and framework such as React, jQuery, Bootstrap. My
-          experience in these technologies has allowed me to create efficient
-          and user-friendly web interfaces that meet the highest industry
-          standards.
+          Throughout my career, with a strong foundation in WordPress development
+          and recent experience utilizing React, APIs, and Firebase in three 
+          significant projects (you can find on my github account),I am eager 
+          to bring my skills and passion for front-end development.
         </p>
         <p className="cover-letter">
-          One of my strengths lies in problem-solving and innovative thinking
-          when it comes to web-based system design. I have a track record of
-          successfully overcoming complex technical challenges and creating
-          elegant solutions. Additionally, I have hands-on experience in the
-          development of no-code, low-code, and full-stack platforms, such as
-          Wix, Webflow and Shopify.
+          Over the past two years, I have honed my skills as a WordPress developer, 
+          successfully creating full-stack websites that not only meet but exceed 
+          client expectations. My experience in WordPress development has equipped 
+          me with a deep understanding of web development principles, including 
+          HTML, CSS, JavaScript, and PHP.
         </p>
         <p className="cover-letter">
           What sets me apart is my agile mindset, quick learning ability, and
