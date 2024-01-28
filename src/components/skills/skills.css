@@ -22,6 +22,14 @@
   color: #5e5c7f;
 }
 
+.skill-certification {
+  display: block;
+}
+
+.certification {
+  margin-top: 30px;
+}
+
 @media screen and (max-width: 768px) {
   .skill-list {
     display: block;
